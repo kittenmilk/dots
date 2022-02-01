@@ -1,0 +1,4 @@
+# .xinitrc
+# neko 2022
+
+exec i3

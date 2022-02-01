@@ -1,0 +1,11 @@
+# .zshrc
+# neko 2022
+
+export EDITOR="micro"
+
+alias c="chezmoi"
+alias g="git"
+alias m="micro"
+alias p="paru"
+
+eval "$(starship init zsh)"
