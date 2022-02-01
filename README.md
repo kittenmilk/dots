@@ -4,9 +4,9 @@ neko's i3-gaps setup
 
 ## details
 
-wm: i3-gaps
-colors: catppuccin
-font: gohufont
+wm: i3-gaps\
+colors: catppuccin\
+font: gohufont\
 bar: polybar
 
 ## install
