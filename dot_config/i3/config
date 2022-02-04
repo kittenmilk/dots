@@ -8,7 +8,7 @@ set $mod Mod4
 font pango:monospace 8
 
 # start a bunch of things
-exec_always --no-startup-id $HOME/bin/polybar
+exec_always --no-startup-id $HOME/bin/launch_polybar
 exec --no-startup-id feh --bg-fill $HOME/img/wallpaper/pixel.jpg
 
 # disable window borders
